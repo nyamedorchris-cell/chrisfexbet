@@ -1,0 +1,6 @@
+{
+  "name": "CHRISFIXBET",
+  "description": "CHRISFIXBET sports betting platform featuring real-time live odds, live match chat rooms with emoji reactions and moderation, interactive multi-bet slip, match tracker, casino games, and instant Ghana payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
